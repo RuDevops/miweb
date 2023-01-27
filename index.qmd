@@ -1,0 +1,32 @@
+---
+title: "miweb"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# introduccion
+
+algo gfdsg ``sdf`` **gsfdg**
+
+[este es el link](https://git-scm.com/download/win){.external}
+
+[](){.external}
+
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|   12  |  12  |    12   |    12  |
+|  123  |  123 |   123   |   123  |
+|    1  |    1 |     1   |     1  |
+
+
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
+
+# esto mola
