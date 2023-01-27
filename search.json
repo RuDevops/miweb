@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "As a results-driven professional with over 15 years of experience in the banking industry and after my Esade EMBA, I specialize in leading cross-functional teams to deliver innovative solutions that drive business growth through operational excellence and team development. Skilled in project management, strategic planning, solving complex problems and making people grow. I am passionate about driving change and creating positive impact, building high performing teams and launching new initiatives. Let’s connect if you are interested in discussing opportunities or looking to drive success through innovation, people and culture."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "miweb",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nintroduccion\nalgo gfdsg sdf gsfdg\neste es el link\n\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --> B(Round edge)\n  B --> C{Decision}\n  C --> D[Result one]\n  C --> E[Result two]\n\n\n\n\n\n\n\n\n\n\nesto mola"
+  }
+]
